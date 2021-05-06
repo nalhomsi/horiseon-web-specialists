@@ -3,7 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
+/* as a note, #d9dcd6 is specifying your exact shade rather than naming a color.*/
 body {
     background-color: #d9dcd6;
 }
@@ -23,12 +23,13 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-/* changing dic to nav to mirror html*/
+/* changing div to nav to mirror html*/
+/*calibri font need '....'*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
 
@@ -49,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*This is the main portion of your page*/
 .hero {
     height: 800px;
     width: 100%;
@@ -187,7 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*This is your footer section*/
 .footer {
     padding: 30px;
     clear: both;
