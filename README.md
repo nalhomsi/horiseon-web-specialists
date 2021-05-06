@@ -4,6 +4,8 @@ Developer Notes:
 
 Here is a preview of page visuals:
 
-Repistory can be found here: nalhomsi/horiseon-web-specialists
- Published page can be found at: https://nalhomsi.github.io/horiseon-web-specialists/ 
+Repistory can be found here: https://github.com/nalhomsi/horiseon-web-specialists
+
+Published page can be found at: https://nalhomsi.github.io/horiseon-web-specialists/ 
+
 This Page was refactored by Noor Alhomsi @ UT Austin Coding Bootcamp
