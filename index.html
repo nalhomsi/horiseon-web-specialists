@@ -1,28 +1,24 @@
-<!--This is your header for the page and will set your tytle and links to your stylesheet-->
+<!--This is your header for the page and will set your title and links to your stylesheet-->
 
 <!DOCTYPE html>
-<html lang="en-us">
+<html lang="en-us"> <!--This is your language-->
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="chrome">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/css/style.css">
-    <title>Horiseon</title>
+    <title>Horiseon</title> <!--Seen in tab-->
 
     <!--fixed DOCTYPE for browser compatibility-->
     <!--Fixed title to match company name-->
-
 </head>
 
- <main> <!--Indicates the main section between header and footer-->
-
-    <body>
-    <div class="header">
+    <body> <!--everything visual should be in body-->
+    <header> <!--no need for class-->
         <h1><span class="seo">Horiseon</span></h1>
+         <!--Cleaned up name within span tags-->
 
-        <!--Cleaned up name within span tags-->
-
-        <div>
+        <nav><!--Changed div to nav to define what its doing-->
             <ul>
                 
                 <li>
@@ -35,16 +31,15 @@
                     <a href="#social-media-marketing">Social Media Marketing</a>
                 </li>
             </ul>
-        </div>
-    </div>
+        </nav>
+    </header>
     <div class="hero"></div>
-    <div class="content">
+    <main class="content"> <!--Most important part of page-->
         <!--Hero Image-->
         <div id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
             <h2>Search Engine Optimization</h2>
-
-            <!--Fixed link to direct to SEO section (ID and Class)-->
+<!--Fixed link to direct to SEO section (ID and Class)-->
 
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
@@ -64,7 +59,7 @@
                 Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
             </p>
         </div>
-    </div>
+    </main>
 
     <!--Benefits of company-->
 
@@ -93,8 +88,6 @@
     </div>
     </body>
    
-</main>
-
     <!--Ends main section before footer-->
     
     <div class="footer">
