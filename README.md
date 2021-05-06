@@ -6,6 +6,8 @@ Developer Notes:
 
 Here is a preview of page visuals:
 
+![horseon](https://user-images.githubusercontent.com/80538653/117369979-b0871380-ae93-11eb-8a4c-72871f7c5982.jpg)
+
 Repistory can be found here: https://github.com/nalhomsi/horiseon-web-specialists
 
 Published page can be found at: https://nalhomsi.github.io/horiseon-web-specialists/
